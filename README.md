@@ -13,6 +13,7 @@ Also I made a lot of tools and solutions for system automation and packages.
 
 ### Interest
 - Micro Service Architecture(MSA)
+- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Google Cloud Platform(Especially, BigQuery)
 - Agile culture & eXtreme Programming & Pair Programming
 
