@@ -4,6 +4,18 @@
   
  </div>
  
+ ### Project Manager & Software engineer Specialist, Open-source contributor
+- I'm good at the System automation build up and I can make a stable systems of IT infrastructure with Open-source and own source code. due to I have experience about of High technical skills and good process from the NCOM.
+Also I made a lot of tools and solutions for system automation and packages.
+
+My role was a Technical architect to made an Operation policy and Infrastructure system- automation/stabilizing/standardize/scalability/development/cloud computing system in IT companies.
+
+
+### Interest
+- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+- Google Cloud Platform(Especially, BigQuery)
+- Leadership, Mentoring
+
  <div align=center>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FB5BC5?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hadeslee.tistory.com//)	
