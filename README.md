@@ -4,7 +4,7 @@
   
  </div>
  
- ### Project Manager & Software engineer Specialist, Open-source contributor
+ ### Software engineer Specialist, Open-source contributor
 - I'm good at the System automation build up and I can make a stable systems of IT infrastructure with Open-source and own source code. due to I have experience about of High technical skills and good process from the NCOM.
 Also I made a lot of tools and solutions for system automation and packages.
 
