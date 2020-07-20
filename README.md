@@ -1,12 +1,11 @@
 <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ericseokgon)](https://hits.seeyoufarm.com) 
-  
-  <a href="https://ko-fi.com/ericlee">
+    
+ </div>
+ <a href="https://ko-fi.com/ericlee">
     <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
   </a>
- </div>
- 
  [![EricSeokgon's github stats](https://github-readme-stats.vercel.app/api?username=EricSeokgon)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Software engineer Specialist, Open-source contributor
