@@ -1,10 +1,10 @@
 <div align=center>
   
-  [![EricSeokgon's github stats](https://github-readme-stats.vercel.app/api?username=EricSeokgon)](https://github.com/anuraghazra/github-readme-stats)
-  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ericseokgon)](https://hits.seeyoufarm.com) 
   
  </div>
+ 
+ [![EricSeokgon's github stats](https://github-readme-stats.vercel.app/api?username=EricSeokgon)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Software engineer Specialist, Open-source contributor
 - I'm good at the System automation build up and I can make a stable systems of IT infrastructure with Open-source and own source code. due to I have experience about of High technical skills and good process from the NCOM.
