@@ -7,7 +7,7 @@
  [![EricSeokgon's github stats](https://github-readme-stats.vercel.app/api?username=EricSeokgon)](https://github.com/anuraghazra/github-readme-stats) 
  
  ### Software engineer Specialist, Open-source contributor
-- I'm good at the System automation build up and I can make a stable systems of IT infrastructure with Open-source and own source code. due to I have experience about of High technical skills and good process from the NCOM.
+- I'm good at the System automation build up and I can make a stable systems of IT infrastructure with Open-source and own source code. due to I have experience about of High technical skills and good process from the IRcompany.
 Also I made a lot of tools and solutions for system automation and packages.
 
 ### Interest
