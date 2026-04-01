@@ -8,14 +8,14 @@
  ## Professional Profile
  ### Senior Specialist Manager | Open-Source Contributor
 - I am a pioneer in integrating Vibe Coding workflows and AI Agent orchestration to redefine the boundaries of system automation. By shifting the development paradigm from manual syntax to high-level architectural intent, I build stable, high-performance Big Data Analytics Infrastructure that leverages the synergy between human creativity and AI-driven execution. My professional background at IRCompany provides the technical rigor to transform cutting-edge open-source technologies and custom source code into production-ready, autonomous systems.
-- 
+
 ### Core Interests
 - Vibe Coding & AI Agent Orchestration: Architecting development environments where AI Agents handle implementation details based on natural language intent, enabling rapid prototyping and "Vibe-driven" software evolution.
--Harness Engineering: Engineering robust automation harnesses and frameworks that provide the safety and scalability required for AI-generated code and complex distributed systems.
--Big Data & AI Convergence: Deeply focused on the intersection of Generative AI and Big Data, utilizing Data Virtualization to enable real-time, source-verified analytics.
--Next-Gen MLOps: Advancing MLOps by automating the entire lifecycle of ML/DL models—from automated training pipelines to production-grade deployment.
--Cloud-Native Architecture: Expertise in Micro Service Architecture (MSA) and Google Cloud Platform (BigQuery), optimized for the high throughput required by modern AI workloads.
--Agile & Collaborative Innovation: Championing Agile culture, eXtreme Programming, and Pair Programming (both Human-to-Human and Human-to-AI) to drive engineering excellence.
+- Harness Engineering: Engineering robust automation harnesses and frameworks that provide the safety and scalability required for AI-generated code and complex distributed systems.
+- Big Data & AI Convergence: Deeply focused on the intersection of Generative AI and Big Data, utilizing Data Virtualization to enable real-time, source-verified analytics.
+- Next-Gen MLOps: Advancing MLOps by automating the entire lifecycle of ML/DL models—from automated training pipelines to production-grade deployment.
+- Cloud-Native Architecture: Expertise in Micro Service Architecture (MSA) and Google Cloud Platform (BigQuery), optimized for the high throughput required by modern AI workloads.
+- Agile & Collaborative Innovation: Championing Agile culture, eXtreme Programming, and Pair Programming (both Human-to-Human and Human-to-AI) to drive engineering excellence.
 
 ## Patent & Innovation
 ### Patent Application (2025)
