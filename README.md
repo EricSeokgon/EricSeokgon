@@ -16,6 +16,8 @@ Also I made a lot of tools and solutions for system automation and packages.
 - Google Cloud Platform(Especially, BigQuery)
 - Agile culture & eXtreme Programming & Pair Programming
 
+### 2025 E-Government Standard Framework Contribution Letter of Appreciation
+### 2024 E-Government Standard Framework Contribution Letter of Appreciation
 ### 2023 E-Government Standard Framework Contribution Letter of Appreciation
 ### 2022 E-Government Standard Framework Contribution Letter of Appreciation
 
