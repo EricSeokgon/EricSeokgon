@@ -1,38 +1,76 @@
-  
- [![EricSeokgon Badge](http://img.shields.io/badge/-Tech%20blog-FB5BC5?style=flat-square&logo=github&link=https://EricSeokgon.github.io/)](https://EricSeokgon.github.io/)	
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-seokgon-lee-312991aa)](https://www.linkedin.com/in/eric-seokgon-lee-312991aa)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/eric.seokgon)](https://www.facebook.com/eric.seokgon)
- [![Instagram Badge](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leesk55/)](https://www.instagram.com/leesk55/)	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leesk55@gmail.com)](mailto:leesk55@gmail.com)
-  
- 
- ## Professional Profile
- ### Senior Specialist Manager | Open-Source Contributor
-- I am a pioneer in integrating Vibe Coding workflows and AI Agent orchestration to redefine the boundaries of system automation. By shifting the development paradigm from manual syntax to high-level architectural intent, I build stable, high-performance Big Data Analytics Infrastructure that leverages the synergy between human creativity and AI-driven execution. My professional background at IRCompany provides the technical rigor to transform cutting-edge open-source technologies and custom source code into production-ready, autonomous systems.
+<h1 align="center">Eric Seokgon Lee</h1>
 
-### Core Interests
-- Vibe Coding & AI Agent Orchestration: Architecting development environments where AI Agents handle implementation details based on natural language intent, enabling rapid prototyping and "Vibe-driven" software evolution.
-- Harness Engineering: Engineering robust automation harnesses and frameworks that provide the safety and scalability required for AI-generated code and complex distributed systems.
-- Big Data & AI Convergence: Deeply focused on the intersection of Generative AI and Big Data, utilizing Data Virtualization to enable real-time, source-verified analytics.
-- Next-Gen MLOps: Advancing MLOps by automating the entire lifecycle of ML/DL models—from automated training pipelines to production-grade deployment.
-- Cloud-Native Architecture: Expertise in Micro Service Architecture (MSA) and Google Cloud Platform (BigQuery), optimized for the high throughput required by modern AI workloads.
-- Agile & Collaborative Innovation: Championing Agile culture, eXtreme Programming, and Pair Programming (both Human-to-Human and Human-to-AI) to drive engineering excellence.
+<p align="center">
+  <strong>Senior Specialist Manager · Open-source contributor · AI agent &amp; data systems builder</strong>
+</p>
 
-## Patent & Innovation
-### Patent Application (2025)
-- Title: System and Method for Providing Visualization-Based Source Information Using Large Language Models (LLMs)
-- Impact: Innovated a method to improve the transparency and reliability of AI-generated content by tracing and visualizing source data within LLM outputs.
-## Leadership & Community
-### Community Leader | Open Cloud Platform Developer Community (2024 – Present)
-- Leading a collaborative network of cloud developers to advance open-source cloud architectures and promote technical knowledge exchange.
-### Recognition of Contribution | E-Government Standard Framework (2022 – 2025)
-- Letter of Appreciation: Received official recognition for consistent contributions to the development and optimization of the E-Government Standard Framework, enhancing public sector software infrastructure.
+<p align="center">
+  <a href="https://hadesyi.tistory.com/"><img alt="Tech blog" src="https://img.shields.io/badge/Tech_blog-FB5BC5?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/eric-seokgon-lee-312991aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/EricSeokgon?tab=achievements"><img alt="GitHub achievements" src="https://img.shields.io/badge/GitHub-Achievements-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:leesk55@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/EricSeokgon?style=flat-square&label=Followers" />
+</p>
 
-### [Cisco FY21 DevNet Innovators Hackathon] 
-<a href="https://www.cisco.com/c/m/en_sg/devnet-innovators/stage2winners.html">- 1st Place Winner</a>
+<p align="center">
+  <img alt="AI agents" src="https://img.shields.io/badge/AI_Agents-5B69C3?style=flat-square" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-414C9A?style=flat-square" />
+  <img alt="Big data" src="https://img.shields.io/badge/Big_Data-2F74C0?style=flat-square" />
+  <img alt="Cloud native" src="https://img.shields.io/badge/Cloud_Native-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="Open source" src="https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+</p>
 
- <a href="https://hadesyi.tistory.com/">
-    <img src="https://badgen.net/badge/icon/EricSeokgon Developer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
-  </a>
- <a href="https://ko-fi.com/ericlee">
-    <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
- </a>
+I turn architectural intent into reliable, agent-assisted systems. My work sits at the intersection of AI agent orchestration, big-data infrastructure, cloud-native architecture, and public-sector open source. At IRCompany, I focus on moving promising ideas from prototype to production with the engineering discipline needed for scale, observability, and trust.
+
+## Current focus
+
+- **Agent-native engineering** — MCP servers, orchestration harnesses, and workflows that let humans specify intent while agents handle implementation details safely.
+- **eGovFrame open source** — documentation, security, correctness, and maintainability improvements across the Korean e-Government Standard Framework ecosystem.
+- **Source-verifiable AI & data platforms** — connecting generative AI with governed data, data virtualization, and production-grade analytics infrastructure.
+
+## Selected work
+
+| Project | What it does |
+| --- | --- |
+| [egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) | Proof-of-concept MCP server for scaffolding eGovFrame projects. |
+| [lotto](https://github.com/EricSeokgon/lotto) | Statistical recommendation CLI and web dashboard built with Python. |
+| [pandasForFinance](https://github.com/EricSeokgon/pandasForFinance) | Practical financial-data analysis with Python and pandas. |
+| [SESC](https://github.com/EricSeokgon/SESC) | Software-engineering material and examples for data scientists. |
+
+## Open-source momentum
+
+- Improving information architecture, links, source tables, and developer guidance in [eGovFramework/egovframe-docs](https://github.com/eGovFramework/egovframe-docs/pulls?q=is%3Apr+author%3AEricSeokgon).
+- Contributing security, download-correctness, performance, and maintainability fixes to [eGovFramework/egovframe-common-components](https://github.com/eGovFramework/egovframe-common-components/pulls?q=is%3Apr+author%3AEricSeokgon).
+- Exploring agent-native public-sector development through [MCP-based eGovFrame scaffolding](https://github.com/EricSeokgon/egovframe-scaffold-mcp).
+
+## Recognition & leadership
+
+- **Community Leader, Open Cloud Platform Developer Community** · 2024–present
+- **Recognition of Contribution, e-Government Standard Framework** · 2022–2025
+- **1st Place, [Cisco FY21 DevNet Innovators Hackathon](https://www.cisco.com/c/m/en_sg/devnet-innovators/stage2winners.html)**
+- **Patent application (2025)** — *System and Method for Providing Visualization-Based Source Information Using Large Language Models (LLMs)*
+
+## GitHub achievements
+
+<p>
+  <a href="https://github.com/EricSeokgon?achievement=quickdraw&tab=achievements"><img alt="Quickdraw" src="https://img.shields.io/badge/Achievement-Quickdraw-8250DF?style=flat-square" /></a>
+  <a href="https://github.com/EricSeokgon?achievement=pull-shark&tab=achievements"><img alt="Pull Shark x2" src="https://img.shields.io/badge/Achievement-Pull_Shark_%C3%972-1F6FEB?style=flat-square" /></a>
+  <a href="https://github.com/EricSeokgon?achievement=pair-extraordinaire&tab=achievements"><img alt="Pair Extraordinaire" src="https://img.shields.io/badge/Achievement-Pair_Extraordinaire-D4A72C?style=flat-square" /></a>
+  <a href="https://github.com/EricSeokgon?achievement=arctic-code-vault-contributor&tab=achievements"><img alt="Arctic Code Vault Contributor" src="https://img.shields.io/badge/Achievement-Arctic_Code_Vault-58A6FF?style=flat-square" /></a>
+  <a href="https://github.com/settings/profile#github-developer-program"><img alt="GitHub Developer Program Member" src="https://img.shields.io/badge/Highlight-Developer_Program_Member-238636?style=flat-square" /></a>
+</p>
+
+<details>
+<summary><strong>More about my engineering approach</strong></summary>
+
+I use vibe-coding workflows and AI-agent orchestration to shift development from manual syntax toward high-level architectural intent. The goal is not automation for its own sake: it is a dependable engineering system in which generated changes remain reviewable, testable, source-backed, and ready for real operational constraints.
+
+My core interests include harness engineering, generative AI and big-data convergence, MLOps automation, microservice architecture, Google Cloud and BigQuery, data virtualization, agile development, and human–AI pair programming.
+
+</details>
+
+---
+
+<p align="center">
+  <a href="https://ko-fi.com/ericlee"><img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy_me_a_coffee-29ABE0?style=flat-square&logo=kofi&logoColor=white" /></a>
+</p>
