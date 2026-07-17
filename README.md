@@ -20,13 +20,13 @@
   <img alt="Open source" src="https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white" />
 </p>
 
-I turn architectural intent into reliable, agent-assisted systems. My work sits at the intersection of AI agent orchestration, big-data infrastructure, cloud-native architecture, and public-sector open source. At IRCompany, I focus on moving promising ideas from prototype to production with the engineering discipline needed for scale, observability, and trust.
+I turn architectural intent into reliable, agent-assisted systems built for **Digital Transformation (DX)** and **AI Transformation (AX)**. My work connects AI agent orchestration with governed, virtualized enterprise data—creating a trusted semantic layer across fragmented sources without unnecessary data duplication. At IRCompany, I combine data virtualization, data governance, metadata and lineage, data quality, access control, big-data infrastructure, and cloud-native architecture to move promising ideas into source-verifiable production systems designed for scale, observability, and trust.
 
 ## Current focus
 
-- **Agent-native engineering** — MCP servers, orchestration harnesses, and workflows that let humans specify intent while agents handle implementation details safely.
-- **eGovFrame open source** — documentation, security, correctness, and maintainability improvements across the Korean e-Government Standard Framework ecosystem.
-- **Source-verifiable AI & data platforms** — connecting generative AI with governed data, data virtualization, and production-grade analytics infrastructure.
+- **Agent-native engineering** — MCP servers, orchestration harnesses, and governed workflows that let humans express business intent while agents plan and implement safely, with traceability and human oversight.
+- **DX & eGovFrame modernization** — using open source, data virtualization, and semantic integration to connect fragmented enterprise and public-sector systems without unnecessary replication.
+- **Governed AX & data platforms** — grounding generative AI in cataloged, lineage-aware, quality-controlled data, with metadata, policy, and access controls built for production-grade analytics and AI.
 
 ## Selected work
 
