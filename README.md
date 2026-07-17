@@ -28,16 +28,15 @@ I turn architectural intent into reliable, agent-assisted systems built for **Di
 - **DX, eGovFrame & open-platform community** — advancing modernization through OPDC leadership, open-source contribution, developer enablement, data virtualization, and semantic integration across fragmented enterprise and public-sector systems.
 - **Governed AX & data platforms** — grounding generative AI in cataloged, lineage-aware, quality-controlled data, with metadata, policy, and access controls built for production-grade analytics and AI.
 
-## Selected work
+### Selected work
 
 | Project | What it does |
-| --- | --- |
+|---|---|
 | [egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) | Proof-of-concept MCP server for scaffolding eGovFrame projects. |
+| [iroum-ax](https://github.com/EricSeokgon/iroum-ax) | AI automation platform for public-institution evaluations — HWP ingestion with VLM/RAG gap analysis (Go · Python · Next.js). |
+| [iroum-cms](https://github.com/EricSeokgon/iroum-cms) | eGovFrame 5.0-based CMS for public institutions with AI-powered policy matching (Spring Boot · Vue 3). |
+| [ai-stock-picker](https://github.com/EricSeokgon/ai-stock-picker) | AI stock/ETF recommender using Claude news-sentiment analysis, real-time prices, and backtesting (FastAPI · React). |
 | [lotto](https://github.com/EricSeokgon/lotto) | Statistical recommendation CLI and web dashboard built with Python. |
-| [pandasForFinance](https://github.com/EricSeokgon/pandasForFinance) | Practical financial-data analysis with Python and pandas. |
-| [SESC](https://github.com/EricSeokgon/SESC) | Software-engineering material and examples for data scientists. |
-
-## Open-source momentum
 
 - Improving information architecture, links, source tables, and developer guidance in [eGovFramework/egovframe-docs](https://github.com/eGovFramework/egovframe-docs/pulls?q=is%3Apr+author%3AEricSeokgon).
 - Contributing security, download-correctness, performance, and maintainability fixes to [eGovFramework/egovframe-common-components](https://github.com/eGovFramework/egovframe-common-components/pulls?q=is%3Apr+author%3AEricSeokgon).
