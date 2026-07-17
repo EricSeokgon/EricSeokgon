@@ -20,12 +20,12 @@
   <img alt="Open source" src="https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white" />
 </p>
 
-I turn architectural intent into reliable, agent-assisted systems built for **Digital Transformation (DX)** and **AI Transformation (AX)**. My work connects AI agent orchestration with governed, virtualized enterprise data—creating a trusted semantic layer across fragmented sources without unnecessary data duplication. At IRCompany, I combine data virtualization, data governance, metadata and lineage, data quality, access control, big-data infrastructure, and cloud-native architecture to move promising ideas into source-verifiable production systems designed for scale, observability, and trust.
+I turn architectural intent into reliable, agent-assisted systems built for **Digital Transformation (DX)** and **AI Transformation (AX)**. My work connects AI agent orchestration with governed, virtualized enterprise data—creating a trusted semantic layer across fragmented sources without unnecessary data duplication. I combine data virtualization, data governance, metadata and lineage, data quality, access control, big-data infrastructure, and cloud-native architecture to move promising ideas into source-verifiable production systems designed for scale, observability, and trust. As an [**OPDC (Open Platform Developer Community)**](https://opdc.kr/) Leader, I also help developers learn and grow through open-platform collaboration, open-source contribution, eGovFrame programs, technical seminars, and community support.
 
 ## Current focus
 
 - **Agent-native engineering** — MCP servers, orchestration harnesses, and governed workflows that let humans express business intent while agents plan and implement safely, with traceability and human oversight.
-- **DX & eGovFrame modernization** — using open source, data virtualization, and semantic integration to connect fragmented enterprise and public-sector systems without unnecessary replication.
+- **DX, eGovFrame & open-platform community** — advancing modernization through OPDC leadership, open-source contribution, developer enablement, data virtualization, and semantic integration across fragmented enterprise and public-sector systems.
 - **Governed AX & data platforms** — grounding generative AI in cataloged, lineage-aware, quality-controlled data, with metadata, policy, and access controls built for production-grade analytics and AI.
 
 ## Selected work
@@ -45,7 +45,7 @@ I turn architectural intent into reliable, agent-assisted systems built for **Di
 
 ## Recognition & leadership
 
-- **Community Leader, Open Cloud Platform Developer Community** · 2024–present
+- **Leader, [OPDC (Open Platform Developer Community)](https://opdc.kr/)** · 2024–present — supporting open-platform quality and productivity through open-source development, eGovFrame contribution, technical seminars, and developer community programs.
 - **Recognition of Contribution, e-Government Standard Framework** · 2022–2025
 - **1st Place, [Cisco FY21 DevNet Innovators Hackathon](https://www.cisco.com/c/m/en_sg/devnet-innovators/stage2winners.html)**
 - **Patent application (2025)** — *System and Method for Providing Visualization-Based Source Information Using Large Language Models (LLMs)*
